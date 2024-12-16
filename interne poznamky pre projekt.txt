@@ -1,0 +1,32 @@
+Akcne kroky:
+postavit databazu
+billboard top 100 nieco
+
+otazka 1, preco su songy popularne (predikcia atributov pop. songu):
+https://www.kaggle.com/discussions/general/438299 - 3 datasety, z nich chceme zobrat top artistov, od artistov top xy songov, dat do jedneho a vziat z api udaje (loudness, danceability, ...)
+https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset
+
+otazka 2, stastne a smutne songy
+pocuvanie stastnych songov, ked sme smutni a naopak
+- zistit nejake pouzitelne data
+- crawler na https://www.billboard.com/charts/hot-100/2024-03-16/
+- mozne data: https://www.kaggle.com/datasets/unsdsn/world-happiness?select=2019.csv
+
+otazka 3, porovnanie krajin
+global wrapped
+porovnanie 
+
+Eri
+- crawler
+
+Tadejko
+- 1.
+
+Sofia
+- brainstorming pre stastne a smutne songy, najdenie dat na to (ekonomicke a hocijake ine ukazovatele, napr happiness index)
+
+
+
+
+
+Side questy - podcasty kedy sa spopularizovali atd 
